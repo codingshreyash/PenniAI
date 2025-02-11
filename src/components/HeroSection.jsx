@@ -3,10 +3,10 @@ import straightphone from '../assets/straightphone.png';
 
 export default function HeroSection() {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-20">
+    <div className="max-w-4xl mx-auto text-center px-4">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <h1 className="text-5xl font-bold mb-6">
+          <h1 className="text-4xl font-bold mb-6">
             Smarter <span className="text-customPink">Spending,</span>
             <br />
             Smart Saving.
@@ -27,7 +27,6 @@ export default function HeroSection() {
         <div className="relative">
           <img 
             src={straightphone} 
-            alt="App Interface" 
             className="w-full max-w-md mx-auto"
           />
         </div>
