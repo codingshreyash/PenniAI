@@ -19,7 +19,7 @@ export default function HeroSection() {
             <button className="bg-pink-500 text-white px-8 py-3 rounded-full font-bold hover:bg-pink-600">
               Start saving
             </button>
-            <button className="border border-gray-300 px-8 py-3 rounded-full font-bold hover:bg-gray-100">
+            <button className="border border-gray-300 px-8 py-3 rounded-full font-bold hover:bg-transparent hover:border-gray-400 hover:text-gray-400">
               Learn more
             </button>
           </div>
