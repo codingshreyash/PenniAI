@@ -1,6 +1,7 @@
 export default function CallToAction() {
   return (
-    <section className="bg-pink-500 text-white py-20 w-full">
+    <section className="bg-pink-600 text-white py-20 w-auto left-0">
+
       <div className="text-center px-4">
         <h2 className="text-3xl font-bold mb-4">
           Start Saving Today
